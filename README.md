@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mehepueks
-- 👀 I’m interested in manual and automated software testing
-- 🌱 I’m currently practicing on Selenium and Cucumber
-- 💞️ I’m looking to collaborate on anything where I can get experience in manual or automated software testing.
+- 👀 I’m interested in Java and automation
+- 🌱 I’m currently practicing on Java
+- 💞️ I’m looking to collaborate on anything where I can get experience in Java or automated software testing.
 - 📫 How to reach me martin.hosemann@outlook.com
 
 My first project has been about manual testing on an e-comerce web page. The aim was to present my latest skill level and practice of bug hunting.
